@@ -1,4 +1,5 @@
 # Social-Media-Analytics
+![image](https://github.com/user-attachments/assets/450d3529-78f2-4067-8511-2a447bb47cca)
 
 Description:
 
